@@ -28,3 +28,5 @@ Username (@username)
 <div align="center">
 <div>📤 Сдача</div> 
 <p>Отправить ссылку на репозиторий GitHub
+
+<img src="./cyber-phantoms-icon.jpg">
